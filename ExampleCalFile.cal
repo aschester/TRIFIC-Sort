@@ -1,0 +1,479 @@
+TIG05BN00A { 
+  Type:      TTigress
+  Name:	TIG05BN00A 
+  Number:	0
+  Address:	0x00000000
+  Digitizer:	GRF16
+  EngCoeff:	-0.363684 1.35947 -0.0000023
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG05GN00A { 
+  Type:      TTigress
+  Name:	TIG05GN00A  
+  Number:	1
+  Address:	0x00000001
+  Digitizer:	GRF16
+  EngCoeff:	-0.313522 1.30159 -0.00000051
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG05RN00A { 
+  Type:      TTigress
+  Name:	TIG05RN00A  
+  Number:	2
+  Address:	0x00000002
+  Digitizer:	GRF16
+  EngCoeff:	0.512054 1.44330 0.0000051
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG05WN00A { 
+  Type:      TTigress
+  Name:	TIG05WN00A  
+  Number:	3
+  Address:	0x00000003
+  Digitizer:	GRF16
+  EngCoeff:	-0.103397 1.26108 0.0000011
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG08BN00A { 
+  Type:      TTigress
+  Name:	TIG08BN00A  
+  Number:	4
+  Address:	0x00000004
+  Digitizer:	GRF16
+  EngCoeff:	-0.485875 1.35529 -0.00000019
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG08GN00A { 
+  Type:      TTigress
+  Name:	TIG08GN00A 
+  Number:	5
+  Address:	0x00000005
+  Digitizer:	GRF16
+  EngCoeff:	-0.250020 1.38484 -0.0000016
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG08RN00A { 
+  Type:      TTigress
+  Name:	TIG08RN00A 
+  Number:	6
+  Address:	0x00000006
+  Digitizer:	GRF16
+  EngCoeff:	-0.368689 1.27940 -0.00000085
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG08WN00A { 
+  Type:      TTigress
+  Name:	TIG08WN00A  
+  Number:	7
+  Address:	0x00000007
+  Digitizer:	GRF16
+  EngCoeff:	-0.127312 1.27523 -0.00000053
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG11BN00A { 
+  Type:      TTigress
+  Name:	TIG11BN00A 
+  Number:	8
+  Address:	0x00000008
+  Digitizer:	GRF16
+  EngCoeff:	-0.446102 1.31254 -0.00000088
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG11GN00A { 
+  Type:      TTigress
+  Name:	TIG11GN00A 
+  Number:	9
+  Address:	0x00000009
+  Digitizer:	GRF16
+  EngCoeff:	0.138038 1.33471 0.00000097
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG11RN00A { 
+  Type:      TTigress
+  Name:	TIG11RN00A 
+  Number:	10
+  Address:	0x0000000a
+  Digitizer:	GRF16
+  EngCoeff:	-0.302696 1.31409 -0.0000013
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG11WN00A { 
+  Type:      TTigress
+  Name:	TIG11WN00A 
+  Number:	11
+  Address:	0x0000000b
+  Digitizer:	GRF16
+  EngCoeff:	-0.872103 1.35158 -0.00000046
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG12BN00A { 
+  Type:      TTigress
+  Name:	TIG12BN00A 
+  Number:	12
+  Address:	0x0000000c
+  Digitizer:	GRF16
+  EngCoeff:	0.306791 1.31557 -0.0000012
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG12GN00A { 
+  Type:      TTigress
+  Name:	TIG12GN00A 
+  Number:	13
+  Address:	0x0000000d
+  Digitizer:	GRF16
+  EngCoeff:	1.06234 1.31538 0.0000026
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG12RN00A { 
+  Type:      TTigress
+  Name:	TIG12RN00A 
+  Number:	14
+  Address:	0x0000000e
+  Digitizer:	GRF16
+  EngCoeff:	-0.504787 1.31380 -0.0000009
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+TIG12WN00A { 
+  Type:      TTigress
+  Name:	TIG12WN00A 
+  Number:	15
+  Address:	0x0000000f
+  Digitizer:	GRF16
+  EngCoeff:	-0.416127 1.35092 -0.00000051
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX01XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX01XX00x 
+  Number:	16
+  Address:	0x00000100
+  Digitizer:	GRF16
+  EngCoeff:	0	2.33188	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX03XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX03XX00x 
+   Number:	17
+  Address:	0x00000101
+  Digitizer:	GRF16
+  EngCoeff:	0	2.43335	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX05XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX05XX00x 
+  Number:	18
+  Address:	0x00000102
+  Digitizer:	GRF16
+  EngCoeff:	0	2.38023	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX07XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX07XX00x 
+  Number:	19
+  Address:	0x00000103
+  Digitizer:	GRF16
+  EngCoeff:	0	2.32501	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX09XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX09XX00x 
+  Number:	20
+  Address:	0x00000104
+  Digitizer:	GRF16
+  EngCoeff:	0	2.40582	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX11XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX11XX00x 
+  Number:	21
+  Address:	0x00000105
+  Digitizer:	GRF16
+  EngCoeff:	0	2.41468	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX13XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX13XX00x 
+  Number:	22
+  Address:	0x00000106
+  Digitizer:	GRF16
+  EngCoeff:	0	2.47305	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX15XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX15XX00x 
+  Number:	23
+  Address:	0x00000107
+  Digitizer:	GRF16
+  EngCoeff:	0	2.38617 0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX17XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX17XX00x 
+  Number:	24
+  Address:	0x00000108
+  Digitizer:	GRF16
+  EngCoeff:	0	2.26639	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX19XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX19XX00x 
+  Number:	25
+  Address:	0x00000109
+  Digitizer:	GRF16
+  EngCoeff:	0	2.24107	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX21XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX21XX00x 
+  Number:	26
+  Address:	0x0000010a
+  Digitizer:	GRF16
+  EngCoeff:	0 1.0 0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX23XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX23XX00x 
+  Number:	27
+  Address:	0x0000010b
+  Digitizer:	GRF16
+  EngCoeff:	0 1.0 0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX00XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX00XX00x 
+  Number:	32
+  Address:	0x00000200
+  Digitizer:	GRF16
+  EngCoeff:	0	2.44675	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX02XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX02XX00x 
+  Number:	33
+  Address:	0x00000201
+  Digitizer:	GRF16
+  EngCoeff:	0	2.35549 0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX04XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX04XX00x 
+  Number:	34
+  Address:	0x00000202
+  Digitizer:	GRF16
+  EngCoeff:	0	2.41380	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX06XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX06XX00x 
+  Number:	35
+  Address:	0x00000203
+  Digitizer:	GRF16
+  EngCoeff:	0	2.12049	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX08XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX08XX00x 
+  Number:	36
+  Address:	0x00000204
+  Digitizer:	GRF16
+  EngCoeff:	0	2.31586 0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX10XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX10XX00x 
+  Number:	37
+  Address:	0x00000205
+  Digitizer:	GRF16
+  EngCoeff:	0	2.39597	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX12XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX12XX00x 
+  Number:	38
+  Address:	0x00000206
+  Digitizer:	GRF16
+  EngCoeff:	0	2.46659	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX14XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX14XX00x
+  Number:	39
+  Address:	0x00000207
+  Digitizer:	GRF16
+  EngCoeff:	0	2.40160	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX16XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX16XX00x
+  Number:	40
+  Address:	0x00000208
+  Digitizer:	GRF16
+  EngCoeff:	0	2.28757 0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX18XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX18XX00x
+  Number:	41
+  Address:	0x00000209
+  Digitizer:	GRF16
+  EngCoeff:	0	2.33875	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX20XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX20XX00x
+  Number:	42
+  Address:	0x0000020a
+  Digitizer:	GRF16
+  EngCoeff:	0	3.57559	0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
+
+GDX22XX00x { 
+  Type:      TGenericDetector
+  Name:	GDX22XX00x
+  Number:	43
+  Address:	0x0000020b
+  Digitizer:	GRF16
+  EngCoeff:	0 1.0 0.0
+  Integration:	0
+  EngChi2:	0	
+  FileInt:	0
+}
